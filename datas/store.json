@@ -1,0 +1,554 @@
+{
+  "name": "store_name",
+  "description": "store_description",
+  "showBanner": false,
+  "header": {
+    "title": "Now it's easier than ever to build products",
+    "subtitle": "Preline is a large open-source project, crafted with Tailwind CSS framework by Hmlstream.",
+    "buttonText": "Explore",
+    "showButton": true
+  },
+  "categories": [
+    "categ1",
+    "categ2",
+    "categ3",
+    "categ4",
+    "categ5",
+    "categ6",
+    "categ7"
+  ],
+
+  "showSearch": true,
+  "products": [
+    {
+      "name": "Cuisinart Compact Blender and Juicer Combo, One Size, Stainless Steel",
+      "slug": "Cuisinart-Compact-lender-and-Juicer",
+      "customerReview": "4.3 out of 5 stars",
+      "price": "$49.99",
+      "originalPrice": "$79.95",
+      "rawPrice": 49.99,
+      "currency": "$",
+      "canonicalUrl": "https://www.amazon.com/Cuisinart-Compact-Blender-Juicer-Stainless/dp/B0C86SN7HD",
+
+      "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41n2C 07e1L.jpg",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31yefWu4 hL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41S354VqzRL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31AfYjM1NRL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41UlHJdbiUL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51kW cdnUtL.jpg"
+      ],
+
+      "brand": "Cuisinart",
+
+      "shippingMessage": "",
+      "deliveryMessages": [
+        "FREE delivery Monday, November 20. Order within 8 hrs 43 mins"
+      ],
+      "climatePledgeFriendly": {
+        "present": false,
+        "details": ""
+      },
+      "features": [
+        "Compact Blender and Juice Extractor Combo and 450 watt peak motor",
+        "Blender includes 16 oz blending cup with flip travel lid and Juice extractor produces 8 to 16 ounces of fresh juice",
+        "Illuminated LED Controls and Rotary dial with High / Low / Pulse selection",
+        "Pulp container for easy cleaning and Juice extractor includes lid buckle closing safety",
+        "Dishwasher Safe Parts and Limited 3 Year Warranty"
+      ],
+      "description": "Introducing the innovative kitchen essential that makes it easy for health conscious consumers to enjoy a wide variety of fresh juice based beverages at home or on the go. The sturdy nonslip base houses a powerful 450 watt peak motor and features a control dial with low, high, and pulse options. Blend delicious smoothies directly into a 16 oz. travel cup or attach the juice extractor to extract nutrient rich juice from bananas, carrots, apples, and more. The travel cup comes with an attachable lid so you can enjoy your drink on the go!",
+
+      "productInformation": [
+        {
+          "name": "Brand",
+          "value": "Cuisinart"
+        },
+        {
+          "name": "Color",
+          "value": "Stainless Steel"
+        },
+        {
+          "name": "Recommended Uses For Product",
+          "value": "Blending"
+        },
+        {
+          "name": "Product Care Instructions",
+          "value": "Dishwasher Safe"
+        },
+        {
+          "name": "Power Source",
+          "value": "Corded Electric"
+        },
+        {
+          "name": "Blade Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "name": "Is Dishwasher Safe",
+          "value": "Yes"
+        },
+        {
+          "name": "Product Dimensions",
+          "value": "8.12 x 11 x 19 inches"
+        },
+        {
+          "name": "Item Weight",
+          "value": "7.33 pounds"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Cuisinart"
+        },
+        {
+          "name": "ASIN",
+          "value": "B0C86SN7HD"
+        },
+        {
+          "name": "Country of Origin",
+          "value": "China"
+        },
+        {
+          "name": "Item model number",
+          "value": "BJC-550"
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "3.4 3.4 out of 5 stars 3 ratings 3.4 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#47,213 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #114 in Countertop Blenders"
+        },
+        {
+          "name": "Date First Available",
+          "value": "June 15, 2023"
+        },
+        {
+          "name": "Material Stainless Steel, Plastic",
+          "value": "Wattage 450 watts"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewerName": "DD",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLRFBDAIZTFPFHUS5CGASMKYBZQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37KNBCFTWYX45?ASIN=B0BBT7ZFBY",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on June 30, 2023",
+          "reviewTitle": "5.0 out of 5 stars Great Product and some info about QR codes and some easy help to Label Refill woes and confusion.",
+          "reviewText": "This product is just great. I have been using it for several weeks now and am constantly in the app thinking up new label ideas.D30 Printer - The product itself is well made, put simply it just works as intended. The printing is fast even if you print a solid black label and DPI is the highest and same as any of the other competitors available. When printing super small there may be some issues with text and legibility. I prefer to keep things simple with 1 or 2 line of big text. At 3 lines it is 100% readable as well. When you start putting super tiny text on there the letters begin to not print as intended due to problems with DPI if I am not mistaken. Letters may not print as they are supposed look thus making it hard to read. We are talking super small at this point though and it is unreasonable to expect to get micro text out of this thing that most people would need magnification to read anyways. Icons still look pretty good even at fairly small sizes. Just buy this one, it is the best one because it has the best ecosystem, the printer is easily equal or best... don't buy it based on just looks but it looks/is decent, app which is super important is complete meaning all it's features work unlike many other printers and it has the most label refill options.The APP - The app you need to download can be downloaded and tested before you even buy. I did just that with this and other best sellers and found this app had more icons and the competing apps actually had a similar app always but lacked icons, had usability issues, and some features that did not work yet because the app was not done yet but they still promote the app features as if they worked. This app seems to me like the best app thus making this the best printer IMHO because the app is the most important part of this whole printer label thing. If you are like me you will be spending most of the time with your phone and the app not holding the printer itself obviously until you need to grab your label(s). It may seem trivial but the app is super fun because you get to create things there then ultimately print them out on labels. The app lets you save all your labels and also manage them by deleting some if you want to get rid of some. The app has two modes, a basic simple mode and a more comprehensive mode. Tbh they are both modes are fine and comprehensive mode is very easy to use and has many features to help you create with great tiny precision so I just use that by default. The comprehensive mode is very intuitive and easy to learn to use. I have been in the app a ton since I got the printer and am always creating something new or saving labels I will print or that are or will be handy or fun to use now or later. Again saving everything is huge, because if you print the same things often you can simply select it before you enter creation mode and just print it.QR Code feature in the app - Short version is it works for sure, but filling it to the 200 character limit seems unprintable no matter what. There are two small problems. 1) First, in the app if you increase the size of the of the QR code via dragging the corner it can sometimes distort the shape. This is doesn't happen every time and I would call it a bug. You want to keep it Square. I suggest two things if resizing the QR code. Copy your text to clipboard before finishing the QR code. Hit the check mark to place it. Don't move it from where it initially appears on the app, resize it in baby steps and remember there is an undo button if the QR code distorts. If trying for max size move it to the top left corner, then finish resizing it to the max. A max size QR code code does work, so does a smaller default size smaller QR code but the number of characters used may make a difference. Also alternately, instead of undo if you distort the QR code, if you have trouble just delete it and make a new one, paste the clipboard, and try again. The real problem is it seems you cannot use the full 200/200 character limit as I am about to explain. 2) Second links and info work fine in the QR code depending on error correction and size, but you can only use so many characters. I tried using the maximum and it could not be read with it set to either LOW or SUPER as the error correction level. I took a only minutes and printed a few tests and I can print 100/200 characters of text at LOW error correction but not at SUPER error correction. At SUPER, 100 characters, the corners were distorted enough where I could tell directly from the app it was unprintable because the corner blocks were too small to be printed due to DPI limitations. I am sure I can go higher than 100 on LOW for example, but I didn't want to do a super comprehensive definitive test just for my review. I suggest you guys play around with both character limit and error correction and don't distort your QR codes!Label refills - Some people and reviewers have had trouble with refills. I came across the same issue as another reviewer yet his solution was drastically different and complicated but the actual issue is trivial but an understandable mistake. The D30 Printer comes pre-loaded with a roll of labels. The labels face outward and you are supposed to put the label side facing the printer head thus it feeds through the left of the circular chamber when you use that first roll. However the refills I purchased came wound up differently so the label faced the inward. I believe this may have been a change in the way they were wound up by the manufacturer and that is all. This means that to get the labels on the printer head you need to feed them through the right side of the circular chamber instead(see my image, that is a refill roll fed through right side). That is all. To me it was obvious but I understand the confusion as the product didn't comer out of the box that way and I too initially fed the refill roll to the left and was confused. Again to recap the D30 comes with a roll with labels on the outside/up and the refills seem to be wound now with the label facing inside/down so need to be fed through the right. Just remember label has to face the printer head or it will obviously try and print on the back of the label paper that you throw away.Customer Support - Top notch 5 Star customer support that responded pretty fast. I genuinely believe they are trying hard to support their products and will continue well into the future and meet their customers expectations and are responsive to feedback and actually try to fix issues that arise.At times I am so bored but since getting the D30 printer I have been so distracted and immersed for weeks in the app creating and thinking of new labels. I have even seen some mental health benefits, my anxiety and stress I suffer from have gone down some because I am in the app so often. Who knew a simple label maker could be so fun!",
+          "reviewVotes": "474 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [
+              "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+              "https://m.media-amazon.com/images/I/618LMyaSbNL.jpg",
+              "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+              "https://m.media-amazon.com/images/I/61F+axiMfqL.jpg"
+            ],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Elizabeth DarcyElizabeth Darcy",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH3NPIXH55S34HV4Y3LULLZZM6UQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1P5VVQ7P7N58T?ASIN=B0BBT7ZFBY",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on July 29, 2023",
+          "reviewTitle": "5.0 out of 5 stars Super Easy To Use - Get Labeling!",
+          "reviewText": "I'm kind of a freak about organization and I label EVERYTHING, so thank goodness this little printer is almost effortless to use. Similar in size to a cell phone about twice as thick, but way lighter, making it easy to pop into your purse, backpack, or briefcase if you need to. The biggest issue I have with thermal printers is normally loading the paper correctly. This printer is easy to load. Just seat the spool onto the raised circle and feed the end of the label into the narrow slot. Close the lid and press the button on the top of the machine and it will auto-feed the label to the correct position. You will be sacrificing the first label, but that's typical in my experience. It doesn't matter if you feed a little or a lot into the slot, the auto-feed will correctly set the label regardless. As you can see in the picture, the ends of the label are perfectly centered, which is because of the auto-feed setting positioning the label in the right place. The border, however, is pretty tight to the bottom of the label, but that's more likely a software issue because from the print screen on my phone it looks perfectly centered and the paper is seated properly in the printer. The print quality is good, but I find that it helps if my text is medium to large in relation to the size of the label for the best quality. I generally prefer labels with larger text anyway, since the point of putting a label on something is to be able to identify what it is at a glance.The uses for this label printer are virtually endless. From spice jars to file folders and everything in between, if it needs a label, you can make one with this printer. I have another label printer similar to this one, but it's difficult to get the label tape perfectly installed and it has to be plugged in when you want to use it because it's not rechargeable. This printer is rechargeable which makes a big difference because I can easily take it into the kitchen or the office depending on what I need to do with it. It uses a micro USB for recharging and a charging cable is included for your convenience. Mine arrived without a usable charge, but it only takes a few hours to fully charge it. I plugged it in to charge around midday, and it was already charged when I checked it around dinner time. It has a little cutout on one end where you could easily attach a lanyard (not included) if you wanted to which might be handy depending on your individual usage habits.The app you need to create and print labels is easy to use and there's a huge selection of fonts, icons, borders, and templates. You can also create and save your own templates if you have a particular type of label you make frequently. I find this useful for creating food storage labels so that I know the date I put something in the freezer or pantry. Phomemo also has a lot of different label styles, so you're not just stuck with the plain old boring white ones. It's nice that you can get different colors to showcase your own personal style. There's no comprehensive list of labels that are compatible with this printer, but it supports thermal labels that range from 12-15mm wide, and you can use either the precut or continuous labels. If you search \"D30 labels\" on Amazon, you'll see there are tons of choices out there.The device is almost genius in its simplicity. There is a single light that illuminates when the device is turned on, blinks when it's charging, turns solid red if there's a problem like the cover is open or there are no labels installed, and blinks red when you're running low on power. I initially thought the round black circle was some sort of display when I unboxed the printer, but it's purely decorative and makes the printer look kind of like a vintage radio. As I already described, the labels are easy to load, and the only other part of the device you'll use is the charging port. Everything else is controlled via the app.The app has a lot to offer, but as with anything new, it will take some time playing around with it to discover all the features and how to apply them. When you open the app, you'll see at the very top there is a section labeled \"Operations Guide.\" If you click it and select the model of the device (D30) you'll see a number of topics to help you navigate and get to know the software including how to create a label, how to center text, and so on. When you click on them, it takes you to an instructional video which is infinitely more useful than reading a manual. If you just want to go for it, I have found that just playing with the different settings and features has worked well for me. The label I made as a test for this review took around 5 minutes to create, so it's pretty easy to intuit your way around. There are hardware instructions as well, and from there you will find the entire instruction manual (great in the event you lose your paper copy) as well as a video showing how to clean the print head. If you still need help, there is a \"contact us\" link from your profile page in the app as well as a live chat. So, no need to be intimidated by this cute little machine!All in all, this is a great label maker that you can use throughout your home and office. I find myself using it every week, mostly for food-related stuff, but also in my office when I need a file folder labeled. It's also great for labeling things for storage. The labels themselves are easy to use and easy to remove from most things. If you're putting them on food storage containers that you intend to refill, you can even wash the container, and the label will stay put and not smudge - although they won't do as well in the dishwasher. What I really love is that I'm no longer tethered to my computer to make labels with this compact rechargeable printer. The only thing I wish this printer could do is recognize the label size automatically. Maybe AI will get us there eventually. As it is, it's hard not to love this little cutie!",
+          "reviewVotes": "125 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [
+              "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+              "https://m.media-amazon.com/images/I/51PWGU9jz5L.jpg",
+              "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+              "https://m.media-amazon.com/images/I/61NlSUKfwDL.jpg",
+              "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+              "https://m.media-amazon.com/images/I/71H9+QGswdL.jpg",
+              "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+              "https://m.media-amazon.com/images/I/81h7ivr845L.jpg"
+            ],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "J.Glover",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCXW5ETNDGLCZ46JIFN6NARWGEA",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R385O5EUQG2ZP9?ASIN=B0BBT7ZFBY",
+          "reviewRating": "4.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 19, 2023",
+          "reviewTitle": "4.0 out of 5 stars Nice once you get the hang of it…",
+          "reviewText": "I’m not a stranger to making labels for just about anything…on my makeup packages with discard dates, the never ending parade of charging cables, leftovers, food I’m freezing etc. They really help me keep things straight. That being said, I was intrigued by this model that’s much smaller than my current one.At first I was turned off by the separated labels that came with it rather than the long, continuous label that my old one uses. I wasted quite a few labels trying to get it to line up correctly. No biggie, I can just buy continuous labels once these are gone. But there is no built in label cutter like my old one, so I’ll need to keep scissors handy, not a huge deal but a minor inconvenience.The app is free (and the same app my other printer uses even though they are completely different brands). There’s a “lite” mode and a “creative” mode. Lite mode has literally a hundred or so labels premade and ready to go with general household labels (categories for cleaning, spices etc.) Creative mode gives you a ton of options: font, size, boarders, symbols, emojis, gift tags and the like. After a few days of trial and error I’ve gotten the hang of it. Time will tell if it stands up to my almost daily label needs.I think it will be a nice replacement for my bigger, older model. I docked one star for not having a built in label cutter. Not an issue if you’re using the separated labels and not the continuous kind, which I prefer.",
+          "reviewVotes": "4 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Fatima Germana",
+          "reviewerLink": "",
+          "reviewLink": "",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Brazil on August 26, 2023",
+          "reviewTitle": "Maravilhoso",
+          "reviewText": "Fácil e prático.",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Caitlyn",
+          "reviewerLink": "",
+          "reviewLink": "",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on November 9, 2023",
+          "reviewTitle": "Bought as a gift",
+          "reviewText": "I already have one and bought this for a gift. I love this label maker. I label everything now. They have so many label paper colours and designs. The app is easy to use and you can select many different fonts. It is thermal printed meaning you don't run out of ink. Having labels on household items makes such a difference. Everything is neat and organized.",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "A customer/Une cliente",
+          "reviewerLink": "",
+          "reviewLink": "",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on November 1, 2023",
+          "reviewTitle": "Je ne suis pas techno du tout et pourtant...",
+          "reviewText": "....j'ai réussi à l'installer et la faire fonctionner du premier coup sur mon iPad. La qualité d'impression est très bonne et j'aime la grandeur des étiquettes (12 mm x 40 mm) que je colle derrière mes cartes faites à la main. Je préfère ces étiquettes aux étampes que j'ai pu avoir par le passé. Je recommande cette petite imprimante.",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Ashley",
+          "reviewerLink": "",
+          "reviewLink": "",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on November 12, 2023",
+          "reviewTitle": "Great machine",
+          "reviewText": "I absolutely love this little thing. I use it often and highly recommend getting transparent labels with it",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Alyssa C.",
+          "reviewerLink": "",
+          "reviewLink": "",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in Canada on October 10, 2023",
+          "reviewTitle": "Must have for Back to School",
+          "reviewText": "If you need to label all of your kids stuff for school. This product is great. You can customize your labels by adding icons and changing font styles. It only prints in black and white but I think they have a option to purchase colored labels. So far it holds up in the laundry when you put it on clothes.",
+          "reviewVotes": "One person found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lysol Pro Kitchen Spray Cleaner and Degreaser, Antibacterial All Purpose Cleaning Spray for Kitchens, Countertops, Ovens, and Appliances, Citrus Scent, 22oz",
+      "slug": "Lysol-Pro-Kitchen-Cleaner",
+      "price": "$3.77$3.77 ($0.17$0.17 / Ounce) $3.37$3.37 ($0.15$0.15 / Ounce)",
+      "originalPrice": "",
+      "rawPrice": 3.77,
+      "currency": "$",
+      "canonicalUrl": "https://www.amazon.com/Lysol-Kitchen-Antibacterial-Cleaner-Chemicals/dp/B00007J6CX",
+      "soldBy": {
+        "sellerID": "",
+        "name": "Amazon.com",
+        "link": "https://www.amazon.com"
+      },
+      "deliveredBy": "",
+      "parentAsin": "",
+      "asinVariationValues": [],
+      "isPrime": true,
+      "inStock": true,
+      "maximumQuantity": "27",
+      "stockDetail": "In Stock",
+      "couponInfo": "",
+      "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41yHVpKN94L.jpg",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/419T5OXWPSL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51k 0HQgaML.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ENQNm0HIL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zQWbFAZbL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zfC2HDs0L.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51RtceQNhgL.jpg"
+      ],
+      "imagesCount": 7,
+      "highResolutionImages": [],
+      "videos": [
+        "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c0f3042-bcef-4f85-b29b-f2c23198983a/default.jobtemplate.mp4.480.mp4",
+        "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e256c965-06ae-47d6-a4ed-ad9563c312fc/default.jobtemplate.mp4.480.mp4",
+        "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/53e9282b-0592-48e3-b869-58ba097d5072/default.jobtemplate.mp4.480.mp4",
+        "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ccc631b2-8711-472b-b425-42229eaa3e9b/default.jobtemplate.mp4.480.mp4",
+        "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c1345b67-566b-43fb-af3c-1c00c1237e92/default.jobtemplate.mp4.480.mp4",
+        "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/aeb1298c-332e-42db-a05b-19d9479cda24/default.vertical.jobtemplate.mp4.480.mp4"
+      ],
+      "videosCount": 6,
+      "productGuidesAndDocuments": {
+        "productDocumentationLink": "",
+        "userManualLink": ""
+      },
+      "byLineInfo": {
+        "name": "Visit the Lysol Store",
+        "link": "https://www.amazon.com/stores/Lysol/page/02C7E2B6-B984-47F0-8747-9E77D1BE8B32?ref_=ast_bln"
+      },
+      "brand": "Lysol",
+      "merchantInfo": "",
+      "customerReview": "4.7 out of 5 stars",
+      "customerReviewCount": 7410,
+      "answeredQuestionsCount": 29,
+      "editorialReviews": [],
+      "warrantyMessage": "",
+      "shippingMessage": "",
+      "deliveryMessages": [
+        "FREE delivery Wednesday, November 22 on orders shipped by Amazon over $35"
+      ],
+      "climatePledgeFriendly": {
+        "present": false,
+        "details": ""
+      },
+      "features": [
+        "ELIMINATES 99.9% OF KITCHEN VIRUSES AND BACTERIA INCLUDNG SALMONELLA AND E.COLI: Lysol Pro Kitchen Cleaner is tested and proven to eliminate 99.9% of viruses and bacteria* (when used as directed). EPA Reg #777-91.",
+        "CUTS THROUGH TOUGH, BAKED ON GREASE: Easily penetrates grease and grime to clean even the toughest kitchen messes, leaving nothing but a fresh citrus scent.",
+        "NO HARSH CHEMICAL RESIDUE: Ideal for counter tops, tables, oven exteriors, highchairs, and kitchen exterior appliances* (when used as directed, rinse food contact surfaces with potable water).",
+        "EASY TO USE KITCHEN SPRAY: Spray on your greasy stains and kitchen messes and wipe away to reveal fresh smelling and sparkling clean kitchen surfaces and exterior appliances.",
+        "LEADERS IN DISINFECTION: Looking for some of our other great disinfectant products? Try our Lysol Disinfecting Wipes, Lysol Disinfectant Sprays and Lysol All Purpose Cleaners."
+      ],
+      "description": "Use this product to disinfect your kitchen surfaces without leaving behind harsh chemical residues. Cut though tough grease with either a spray or foam action.",
+      "breadCrumbs": [
+        {
+          "name": "Stores",
+          "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_1?ie=UTF8&node=265523"
+        },
+        {
+          "name": "Education",
+          "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_2?ie=UTF8&node=23772815011"
+        },
+        {
+          "name": "Early Childhood",
+          "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_3?ie=UTF8&node=23772819011"
+        },
+        {
+          "name": "Cleaning Equipment & Supplies",
+          "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_4?ie=UTF8&node=23774412011"
+        },
+        {
+          "name": "All Purpose Cleaners",
+          "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_5?ie=UTF8&node=23867847011"
+        }
+      ],
+      "productInformation": [
+        {
+          "name": "Is Discontinued By Manufacturer ‏",
+          "value": "‎ No"
+        },
+        {
+          "name": "Product Dimensions ‏",
+          "value": "‎ 2.38 x 4.75 x 10.63 inches; 1.5 Pounds"
+        },
+        {
+          "name": "Item model number ‏",
+          "value": "‎ 1920000888"
+        },
+        {
+          "name": "Department ‏",
+          "value": "‎ Health and Personal Care"
+        },
+        {
+          "name": "Date First Available ‏",
+          "value": "‎ June 27, 2007"
+        },
+        {
+          "name": "Manufacturer ‏",
+          "value": "‎ Reckitt Benckiser - Hazmat"
+        },
+        {
+          "name": "ASIN ‏",
+          "value": "‎ B00007J6CX"
+        },
+        {
+          "name": "Country of Origin ‏",
+          "value": "‎ USA"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#635 in Health & Household (See Top 100 in Health & Household) #1 in Commercial All-Purpose Cleaners #8 in All-Purpose Household Cleaners"
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "4.7 4.7 out of 5 stars 7,410 ratings"
+        }
+      ],
+      "manufacturerProductDescription": [],
+      "manufacturerProductImages": [
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4743ef0-4c13-4ccf-a4e8-6c2b6b004224.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d0304645-d9a3-471b-9eb5-85b8585a3335.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6ef18545-96ca-4ddc-a97e-3cc150b6f942.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f521086d-4130-480e-849e-e7b4d5c05264.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      ],
+      "sponsoredAds": [],
+      "productReviewBottom": [],
+      "reviews": [
+        {
+          "reviewerName": "Dallas H.",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBUCZ5X6AFJ2KTBZXPBJVSTSKVA",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1AVHSCYYPYEWQ?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on November 7, 2023",
+          "reviewTitle": "5.0 out of 5 stars Powered through 15+ years of nasty.",
+          "reviewText": "Yes, you read correctly. Used this to clean a kitchen. Cleaned the very top of the cabinets that haven't been cleaned since they moved in, over 15 years ago. Also there was a heavy smoker in the home. So a mixture of nicotine, dust and grease vapor from cooking all settled onto the top of those things into a disgusting substance. Dawn couldn't touch it. It took 3 layers of product, but it completely broke down all the grease and eventually I got it looking brand new up there. I also cleaned the microwave, under the range, lots of places that were gross and neglected and it did an awesome job. Everything looks 1000 times better. And it disinfects! And smells good! Oh, and good size and cheap!",
+          "reviewVotes": "2 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "White Butterfly",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHCO7EQ57QYX3ZZZ6XXKLBGW3IVQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R39RM3CRJ0Q62V?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 28, 2023",
+          "reviewTitle": "5.0 out of 5 stars Cuts Grease and stains!",
+          "reviewText": "This spray works like a charm. I sprayed it on the Range hood and you could see the grease stain run down with it! My range looks like brand new after using this. It has a pleasant smell, no ammonia smell like some cleaners. It worked on my cabinets as well which are wood, the outside of the fridge, kitchen smells like a new room. I got 2 bottles, ready for the next cleaning when the time comes.",
+          "reviewVotes": "4 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "ang thomas",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHE662XTRP7DV4CQRFVBKVRBRQBQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2VGXVF0FW5YFE?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on November 8, 2023",
+          "reviewTitle": "5.0 out of 5 stars Subtle smell, great results",
+          "reviewText": "I was looking for a kitchen cleaner to clean my fridge and electric cook top. This with a razor blade did wonders! My stove top looks new! I really like how powerful it was without having a super strong smell.",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Erin",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGM5WPAVC54W4I5AGVQXCSQZDMYA",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14PA2398OAKG8?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 26, 2023",
+          "reviewTitle": "5.0 out of 5 stars Good value cleaner",
+          "reviewText": "This cleaner was a great value. My husband is a messy cook so this is perfect to clean up all of the messes that end up in the kitchen after meal time. It doesn’t leave any residue on the counters after cleaning and the smell is not harsh at all. Will definitely be repurchasing",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Madison",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZTXEDN5ZOBIES7U2XHBJMJRWLA",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1F4EGGXP664C9?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 13, 2023",
+          "reviewTitle": "5.0 out of 5 stars My Go-To Spray",
+          "reviewText": "If you know me, you know I hate a dirty kitchen. I clean my kitchen every. single. night because I hate how dirty my stove top and counters get after cooking. This makes it a super easy, 2-minute task. I whip this out, spray it, and wipe down any marks. The scent is nice! I'm buying this again, and am trying their other cleaners, too.",
+          "reviewVotes": "4 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "AngelMomBC1",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUHLMOF6ULE4BCTCVM2CPWN4FJQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3K6BVK69S61OU?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 28, 2023",
+          "reviewTitle": "5.0 out of 5 stars Really Works!",
+          "reviewText": "I use this mostly for my stove. Cleans up grease and grime, No oil left on my stove or counters, also has antibacterial chemicals. No worries about food contamination!",
+          "reviewVotes": "2 people found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Indira",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENSB6DJ772NBAQ5BM6AILL4ZXLQ",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2SBPKEJ94S42C?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on October 28, 2023",
+          "reviewTitle": "5.0 out of 5 stars Great",
+          "reviewText": "Easy to use, deeply clean the surfaces, smell is not the best but the most important is that it cleans out kitchen counters, bathroom sink, stove HIGHLY RECOMMENDED",
+          "reviewVotes": "One person found this helpful",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        },
+        {
+          "reviewerName": "Jessica Devin James",
+          "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEL7V5GEHBJAW54THZDIEO37Z32Q",
+          "reviewLink": "https://www.amazon.com/gp/customer-reviews/R172WR77641KDR?ASIN=B00007J6CX",
+          "reviewRating": "5.0 out of 5 stars",
+          "reviewDate": "Reviewed in the United States on November 8, 2023",
+          "reviewTitle": "5.0 out of 5 stars Works well",
+          "reviewText": "Works pretty well just like every other lysol product",
+          "reviewVotes": "",
+          "reviewVerifiedPurchase": true,
+          "reviewCommentCount": 0,
+          "media": {
+            "images": [],
+            "video": ""
+          }
+        }
+      ],
+      "otherSellers": []
+    }
+  ]
+}
