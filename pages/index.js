@@ -169,21 +169,21 @@ function MyPage() {
                 <div className="aspect-w-16 aspect-h-11">
                   <img
                     className="w-full object-contain rounded-xl h-56"
-                    src={m.mainImage}
+                    src={m.main_image}
                     alt="Image Description"
                   />
                 </div>
                 <div className="my-6">
                   <h3 className="text-md font-semibold text-gray-800 ">
-                    {m?.name.length > 100
-                      ? m?.name.substring(0, 50) + "..."
-                      : m?.name}
+                    {m?.title?.length > 50
+                      ? m?.title?.substring(0, 30) + "..."
+                      : m?.title}
                   </h3>
                 </div>
                 <div className="flex justify-between items-center my-1 mb-5">
                   <div className="flex items-center">
                     <span className="mr-2 text-xl text-green-500 font-extrabold">
-                      ${m?.rawPrice}
+                      ${m?.normal_price}
                     </span>
                   </div>
                   {/* {m?.customerReview.split("out")[0] && ( */}
@@ -192,12 +192,12 @@ function MyPage() {
                       count={5}
                       onChange={(e) => {}}
                       size={18}
-                      value={m?.customerReview.split("out")[0]}
+                      value={parseFloat(m.number_stars)}
                       edit={false}
                       activeColor="#ffd700"
                     />
                     <p className="mt-0 text-sm text-gray-800 ">
-                      {m?.customerReview}
+                      {m?.number_stars} Stars
                     </p>
                   </div>
                   {/* // )} */}
