@@ -12,54 +12,26 @@ function MyPage({ slug }) {
   useEffect(() => {}, []);
   return (
     <>
-      <div className="bg-gradient-to-r from-purple-600 to-blue-400">
-        <div className="max-w-[85rem] px-4 py-4 sm:px-6 lg:px-8 mx-auto">
-          {/* Grid */}
-          <div className="grid justify-center md:grid-cols-2 md:justify-between md:items-center gap-2">
-            <div className="text-center md:text-start md:order-2 md:flex md:justify-end md:items-center">
-              <p className="me-5 inline-block text-sm font-semibold text-white">
-                Ready to get started?
-              </p>
-              <a
-                className="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border-2 border-white text-white hover:border-white/70 hover:text-white/70 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-                href="#"
-              >
-                Sign up
-              </a>
-            </div>
-            {/* End Col */}
-            <div className="flex items-center">
-              <a
-                className="py-2 px-3 inline-flex justify-center items-center gap-2 rounded-lg font-medium text-white hover:bg-white/[.1] focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 transition-all text-sm"
-                href="#"
-              >
-                <svg
-                  className="flex-shrink-0 w-4 h-4"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width={24}
-                  height={24}
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth={2}
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
+      <div className="flex flex-col items-center border-b bg-white py-4 sm:flex-row sm:px-10 lg:px-20 xl:px-32 ">
+        <a href="#" className="text-2xl font-bold text-gray-800">
+          {store?.display_name}
+        </a>
+        <div className="mt-4 py-2 text-xs sm:mt-0 sm:ml-auto sm:text-base">
+          <div className="relative">
+            <ul className="relative flex w-full items-center justify-between space-x-2 sm:space-x-4">
+              <li className="flex items-center space-x-3 text-left sm:space-x-4">
+                <a
+                  className="flex h-6 w-6 items-center justify-center rounded-full bg-gray-600 text-xs font-semibold text-white ring ring-gray-600 ring-offset-2"
+                  href="/checkout"
                 >
-                  <polygon points="5 3 19 12 5 21 5 3" />
-                </svg>
-                Watch demo
-              </a>
-              <span className="inline-block border-e border-white/[.3] w-px h-5 mx-2" />
-              <a
-                className="py-2 px-3 inline-flex justify-center items-center gap-2 rounded-lg font-medium text-white hover:bg-white/[.1] focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 transition-all text-sm"
-                href="#"
-              >
-                Explore what's new
-              </a>
-            </div>
-            {/* End Col */}
+                  2
+                </a>
+                <a href="/checkout">
+                  <span className="font-semibold text-gray-900">Card Bags</span>
+                </a>
+              </li>
+            </ul>
           </div>
-          {/* End Grid */}
         </div>
       </div>
       {product && product.slug && (
@@ -138,7 +110,7 @@ function MyPage({ slug }) {
                     </div>
                   </div>
                   <button className="linear mb-6 mt-6 w-full rounded-xl bg-black py-5 text-xl font-normal tracking-widest text-white transition duration-200 hover:shadow-lg hover:shadow-brand-500/50">
-                    👉🏻 Buy Now
+                    👉🏻 Add to Card
                   </button>
                   <div className="flex items-center justify-between">
                     <div className="flex flex-col items-center justify-center">
